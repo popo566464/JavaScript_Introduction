@@ -1,0 +1,11 @@
+p{
+	font-size: 20pt;
+	color: #0000ff;
+}
+#click{
+	font-size: 20pt;
+	color: #ffffff;
+	background: #123456;
+	width: 150px;
+	height: 100px;
+}

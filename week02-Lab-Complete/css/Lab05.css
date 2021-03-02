@@ -1,0 +1,13 @@
+p{
+  font-size: 20px;
+  color: #0000ff;
+}
+canvas{
+	padding: 0;
+    margin: auto;
+    display: block;
+}
+#canvas-draw{
+  background: #dddddd;
+  border: 1px #000000 solid;
+}

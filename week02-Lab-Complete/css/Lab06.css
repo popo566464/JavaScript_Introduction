@@ -1,0 +1,24 @@
+p{
+  font-size: 20px;
+  color: #0000ff;
+}
+canvas{
+	padding: 0;
+    margin: auto;
+    display: block;
+}
+div{
+	text-align: center;
+	margin-top: 20px;
+}
+#canvas-draw{
+  background: #dddddd;
+  border: 1px #000000 solid;
+}
+#button-color{
+	width: 300px;
+	height: 30px;
+	background: #123456;
+	color: #ffffff;
+	border: none;
+}
